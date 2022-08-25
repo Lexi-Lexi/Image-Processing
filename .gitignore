@@ -1,0 +1,29 @@
+# C#
+
+# Ignore .vs
+*/.vs
+
+# Ignore bin
+*/bin
+
+# Ignore obj
+*/obj
+
+
+
+# Java
+
+# Ignore .settings
+*/.settings
+
+# Ignore bin
+*/bin
+
+# Ignore .classpath
+*/.classpath
+
+# Ignore .metadata
+*/.metadata
+
+# Ignore .project
+*/.project
